@@ -1,1 +1,1 @@
-M1=Mozilla/5.0 (Linux; Android 10; SM-A750FN) 11;  en-us; GT-C510K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4597.44 Mobile Safari/537.36=UA
+M1=Mozilla/5.0 (Linux; U; Android 13;  en-us; GT-I544Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.4280.44 Mobile Safari/537.36=UA
