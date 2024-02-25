@@ -1,1 +1,1 @@
-M1=Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) 8;  en-us; GT-F867J) AppleWebKit/605.1.15 (KHTML, like Gecko) Chrome/78.0.4240.88 Mobile/15E148 Safari/605.1=UA
+M1=Mozilla/5.0 (Linux; Android 7; LE2115 Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4656.46 Mobile Safari/537.36=UA
