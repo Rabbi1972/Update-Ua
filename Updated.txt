@@ -1,1 +1,1 @@
-M1=Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-A015F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/12.1 Chrome/98.0.4717.100 Mobile Safari/537.36=UA
+M1=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Mobile Safari/537.36=UA
