@@ -1,1 +1,1 @@
-M1=Mozilla/5.0 (Linux; Android 10; vivo 1951; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36=UA
+M1=Mozilla/5.0 (X11; OpenBSD amd64; rv:28.0) Gecko/20100101 Firefox/28.06=UA
